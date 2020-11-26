@@ -2,9 +2,3 @@ personal image
 
 android_amd64.img
 https://github.com/AkihiroSuda/anbox-android-images-mirror/releases/download/snapshot-20180719/android_amd64.img
-
-android_amd64.img
-SHA256SUM: 6b04cd33d157814deaf92dccf8a23da4dc00b05ca6ce982a03830381896a8cca
-android_houdini.img
-SHA256SUM: 3cb2ca71237ab7c2c2e99bc15949bc514c14291f80c351b39d8a69b14d683deb
-
